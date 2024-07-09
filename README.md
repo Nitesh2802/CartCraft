@@ -27,8 +27,8 @@ A frontend-only React application for shopping with cart functionalities.
 
 ## Screenshots
 
-https://github.com/Nitesh2802/shopapp_redux/blob/main/public/Screenshot%20(1831).png?raw=true
-[![Screenshot 2](/screenshots/screenshot2.png)](https://github.com/Nitesh2802/shopapp_redux/blob/main/public/Screenshot%20(1832).png?raw=true)
+![App Screenshot](https://github.com/Nitesh2802/shopapp_redux/blob/main/public/Screenshot%20(1831).png?raw=true)
+![App Screenshot](https://github.com/Nitesh2802/shopapp_redux/blob/main/public/Screenshot%20(1832).png?raw=true)
 
 ## Contributing
 
