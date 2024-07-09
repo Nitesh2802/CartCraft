@@ -11,7 +11,7 @@ A frontend-only React application for shopping with cart functionalities.
 
 ## Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository:https://github.com/Nitesh2802/shopapp_redux.git
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
@@ -27,8 +27,8 @@ A frontend-only React application for shopping with cart functionalities.
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+https://github.com/Nitesh2802/shopapp_redux/blob/main/public/Screenshot%20(1831).png?raw=true
+[![Screenshot 2](/screenshots/screenshot2.png)](https://github.com/Nitesh2802/shopapp_redux/blob/main/public/Screenshot%20(1832).png?raw=true)
 
 ## Contributing
 
